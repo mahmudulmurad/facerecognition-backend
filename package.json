@@ -1,7 +1,6 @@
 {
-  "name": "Node",
+  "name": "facerecognition-backend",
   "version": "1.0.0",
-  "description": "",
   "main": "server1.js",
   "scripts": {
     "start": "nodemon server1.js"
